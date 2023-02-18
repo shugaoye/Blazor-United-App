@@ -1,5 +1,7 @@
 # Blazor United App Project Template
 
+[![.NET MAUI Project and Item Templates - VS Marketplace](https://badgen.net/vs-marketplace/v/shugaoye.blazor-united)](https://marketplace.visualstudio.com/items?itemName=shugaoye.blazor-united)
+
 [Blazor United](https://github.com/dotnet/aspnetcore/issues/46636) is a feature in ASP.NET Core roadmap for .NET 8. **Blazor United** will have similar features which can be found in JavaScript frameworks, such as **Next.js**, **Nuxt.js** or **Angular Universal**. 
 
 In these frameworks, Server-side rendering (SSR), Client-side rendering (CSR) and Static site generation (SSG) are mixed up in web application development. They are full stack frameworks. 
